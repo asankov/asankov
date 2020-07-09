@@ -1,5 +1,22 @@
-### Hi there 👋
+### Hi, folks! 👋
 
+My name is Anton Sankov!
+
+I am a passionate software developer, currently working at @vmware @carbonblack.
+
+I am also a Core Team member of @kiwitcms.
+
+In my free time I like reading books, playing video games and... programming.
+
+You can check out some of my hobby projects:
+- [gira](https://github.com/asankov/gira) - Like Gira, but for tracking your video games progress. Written in Go. Still WIP.
+- [containerizor](https://github.com/asankov/containerizor) - Running Containers as a service.
+
+I am also getting into public speaking. You can see some of my presentation:
+- [The Twelve-Factor App](https://asankov.org/twelve-factor-app) - my take on the twelve-factor app methodology in the context of microservices.
+- [Go Modules](https://asankov.org/go-modules) - simple explanation of what Go Modules are and what problem they solve.
+
+If you want to learn more about me check out my [CV](https://asankov.org/cv).
 <!--
 **asankov/asankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

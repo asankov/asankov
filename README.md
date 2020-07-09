@@ -14,6 +14,7 @@ You can check out some of my hobby projects:
 
 I am also getting into public speaking. You can see some of my presentation:
 - [The Twelve-Factor App](https://asankov.org/twelve-factor-app) - my take on the twelve-factor app methodology in the context of microservices.
+  - at [DevConf.CZ 2020](https://youtu.be/xyeXx2qtfLI)
 - [Go Modules](https://asankov.org/go-modules) - simple explanation of what Go Modules are and what problem they solve.
 
 If you want to learn more about me check out my [CV](https://asankov.org/cv).

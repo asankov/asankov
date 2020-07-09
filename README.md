@@ -2,9 +2,9 @@
 
 My name is Anton Sankov!
 
-I am a passionate software developer, currently working at @vmware @carbonblack.
+I am a passionate software developer, currently working at VMware Carbon Black.
 
-I am also a Core Team member of @kiwitcms.
+I am also a Core Team member of [Kiwi TCMS](https://github.com/kiwitcms).
 
 In my free time I like reading books, playing video games and... programming.
 

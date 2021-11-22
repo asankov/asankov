@@ -17,7 +17,9 @@ I am also getting into public speaking. You can see some of my presentation:
   - at [DevConf.CZ 2020](https://youtu.be/xyeXx2qtfLI)
 - [Go Modules](https://asankov.org/go-modules) - simple explanation of what Go Modules are and what problem they solve.
 - [Go 101 Workshop](https://github.com/asankov/go-101-workshop) - Workshop for people that have no experience with, but want to learn Go. With [Boris Stoyanov](https://github.com/borisbsv)
-  - at [HackConf 2021](https://hackconf.bg/news/hackconf-2021-online-edition-workshops-announcement/#go-101) 
+  - at [HackConf 2021](https://hackconf.bg/news/hackconf-2021-online-edition-workshops-announcement/#go-101)
+- [Next Phases of Kubernetes](https://github.com/asankov/kubernetes-extensibility) - presentation about how to use Kubernetes extensibility constructs like CRDs, Operators and Admission Controllers to extend Kubernetes and use it as an API backend
+  - at [ISTA 2021](https://youtu.be/fotjvAfnjGE?t=9091)
 
 If you want to learn more about me check out my [CV](https://asankov.org/cv).
 <!--

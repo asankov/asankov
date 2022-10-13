@@ -16,21 +16,87 @@ You can check out some of my hobby projects:
 - [containerizor](https://github.com/asankov/containerizor) - Running Containers as a service
 - [asankov.github.io](https://github.com/asankov/asankov.github.io) - the source of my blog
 
-I am also into public speaking. 
-You can see some of my presentation:
-- [Securing Kubernetes with Open Policy Agent and Gatekeeper](https://asankov.dev/blog/2022/04/21/securing-kubernetes-with-open-policy-agent/) - a talk about securing your Kubernetes cluster via Open Policy Agent and Gatekeeper
-  - at [BSides Sofia 2022 (in Bulgarian)](https://youtu.be/JewdgJASVxI)
-  - at [OSCAL Tirana 2022](https://cfp.openlabs.cc/oscal2022/talk/WUGXZG/)
-- [The Twelve-Factor App](https://asankov.org/twelve-factor-app) - my take on the twelve-factor app methodology in the context of microservices.
-  - at [DevConf.CZ 2020](https://youtu.be/xyeXx2qtfLI)
+## Public speaking
+
+Below you can find all my public (and non-public) presentations.
+
+### Securing Kubernetes with Open Policy Agent and Gatekeeper
+
+A talk about securing your Kubernetes cluster via Open Policy Agent and Gatekeeper.
+
+Presented at:
+
+#### BSides Sofia 2022
+
+- Video recording (in Bulgarian) - [here]((https://youtu.be/JewdgJASVxI))
+- Slides and notes - [here](https://github.com/asankov/securing-kubernetes-with-open-policy-agent/tree/main/2022/bsides-sofia)
+
+#### OSCAL Tirana 2022
+
+- No video.
+- Slides and notes - [here](https://github.com/asankov/securing-kubernetes-with-open-policy-agent/tree/main/2022/oscal-tirana)
+
+#### KubeHuddle Edinburgh 2022
+
+- Video recording - TBD
+- Slides and notes - [here](https://github.com/asankov/securing-kubernetes-with-open-policy-agent/blob/main/2022/kubehuddle-edinburgh)
+
+### Next Phases of Kubernetes
+
+Showcase on how to use Kubernetes extensibility constructs like CRDs, Operators and Admission Controllers to extend Kubernetes and use it as an API backend.
+
+Presented at:
+
+#### ISTA 2021
+
+- Video recording - [here](https://youtu.be/fotjvAfnjGE?t=9091)
+- Slides and notes - [here](https://github.com/asankov/kubernetes-extensibility)
+
+### Building the Twelve-Factor App
+
+My take on the twelve-factor app methodology in the context of microservices
+
+Presented at:
+
+#### DevConf.CZ 2020
+
+- Video recording - [here](https://youtu.be/xyeXx2qtfLI)
+- Presentation - [here](https://asankov.dev/twelve-factor-app/#/)
+
+### Go 101 Workshop
+
+Workshop for Getting started with Go.
+Intended for people that have experience in other programming languages, but not in Go.
+
+With [Boris Stoyanov](https://github.com/borisbsv)
+
+Presented at:
+
+#### HackConf 2021
+
+- No video recording
+- Press release - [here](https://hackconf.bg/news/hackconf-2021-online-edition-workshops-announcement/#go-101)
+
+#### OSCAL Tirana 2022
+
+- No video recording
+
 - [Go Modules](https://asankov.org/go-modules) - simple explanation of what Go Modules are and what problem they solve.
-- [Go 101 Workshop](https://github.com/asankov/go-101-workshop) - Workshop for people that have no experience with, but want to learn Go. With [Boris Stoyanov](https://github.com/borisbsv)
-  - at [HackConf 2021](https://hackconf.bg/news/hackconf-2021-online-edition-workshops-announcement/#go-101)
-  - at [OSCAL Tirana 2022](https://cfp.openlabs.cc/oscal2022/talk/TC7ZBS/)
-- [Next Phases of Kubernetes](https://github.com/asankov/kubernetes-extensibility) - presentation about how to use Kubernetes extensibility constructs like CRDs, Operators and Admission Controllers to extend Kubernetes and use it as an API backend
-  - at [ISTA 2021](https://youtu.be/fotjvAfnjGE?t=9091)
+
+### Building high-performance web services in Go
+
+Part of a discussion panel on that topic on VMware RADIO 2022 San Francisco (the biggest internal VMware Conference).
 
 If you want to learn more about me check out my [CV](https://asankov.org/cv).
+
+### Go Modules
+
+Presentation about Go modules and how to use them.
+
+Presented internally at Mirantis and VMware.
+
+Presentation - [here](https://asankov.dev/go-modules/#/)
+
 <!--
 **asankov/asankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

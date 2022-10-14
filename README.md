@@ -8,13 +8,16 @@ I am also a Core Team member of [Kiwi TCMS](https://github.com/kiwitcms) - the l
 
 In my free time I like reading books, playing video games and... programming.
 
+## Blog
+
 You can check out my blog at <https://asankov.dev/>.
 I write articles about Go and Kubernetes.
 
-You can check out some of my hobby projects:
-- [gira](https://github.com/asankov/gira) - Like Gira, but for tracking your video games progress. Written in Go. Still WIP
-- [containerizor](https://github.com/asankov/containerizor) - Running Containers as a service
-- [asankov.github.io](https://github.com/asankov/asankov.github.io) - the source of my blog
+Some of my most read articles are:
+
+- [Different ways to Initialize Go structs](https://asankov.dev/blog/2022/01/29/different-ways-to-initialize-go-structs/)
+- [Securing Kubernetes with Open Policy Agent and Gatekeeper](https://asankov.dev/blog/2022/04/21/securing-kubernetes-with-open-policy-agent/)
+-[ Demystifying the Kubernetes Iceberg Series](https://asankov.dev/blog/2022/05/15/demystifying-the-kubernetes-iceberg-part-1/)
 
 ## Public speaking
 

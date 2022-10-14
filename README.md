@@ -87,8 +87,6 @@ Presented at:
 
 Part of a discussion panel on that topic on VMware RADIO 2022 San Francisco (the biggest internal VMware Conference).
 
-If you want to learn more about me check out my [CV](https://asankov.org/cv).
-
 ### Go Modules
 
 Presentation about Go modules and how to use them.
@@ -96,6 +94,10 @@ Presentation about Go modules and how to use them.
 Presented internally at Mirantis and VMware.
 
 Presentation - [here](https://asankov.dev/go-modules/#/)
+
+## My CV
+
+If you want to learn more about me check out my [CV](https://asankov.org/cv).
 
 <!--
 **asankov/asankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

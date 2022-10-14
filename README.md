@@ -17,7 +17,7 @@ Some of my most read articles are:
 
 - [Different ways to Initialize Go structs](https://asankov.dev/blog/2022/01/29/different-ways-to-initialize-go-structs/)
 - [Securing Kubernetes with Open Policy Agent and Gatekeeper](https://asankov.dev/blog/2022/04/21/securing-kubernetes-with-open-policy-agent/)
--[ Demystifying the Kubernetes Iceberg Series](https://asankov.dev/blog/2022/05/15/demystifying-the-kubernetes-iceberg-part-1/)
+- [Demystifying the Kubernetes Iceberg Series](https://asankov.dev/blog/2022/05/15/demystifying-the-kubernetes-iceberg-part-1/)
 
 ## Public speaking
 

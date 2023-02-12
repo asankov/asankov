@@ -31,7 +31,7 @@ Presented at:
 
 #### BSides Sofia 2022
 
-- Video recording (in Bulgarian) - [here]((https://youtu.be/JewdgJASVxI))
+- Video recording (in Bulgarian) - [here](https://youtu.be/JewdgJASVxI)
 - Slides and notes - [here](https://github.com/asankov/securing-kubernetes-with-open-policy-agent/tree/main/2022/bsides-sofia)
 
 #### OSCAL Tirana 2022
@@ -41,7 +41,7 @@ Presented at:
 
 #### KubeHuddle Edinburgh 2022
 
-- Video recording - TBD
+- Video recording - -[here](https://www.youtube.com/live/DcOYB4cUM9U?feature=share&t=12186)
 - Slides and notes - [here](https://github.com/asankov/securing-kubernetes-with-open-policy-agent/blob/main/2022/kubehuddle-edinburgh)
 
 ### Next Phases of Kubernetes
@@ -66,6 +66,11 @@ Presented at:
 - Video recording - [here](https://youtu.be/xyeXx2qtfLI)
 - Presentation - [here](https://asankov.dev/twelve-factor-app/#/)
 
+#### OpenExpo Madrid 2019
+
+- No video.
+- Presentation - [here](https://asankov.dev/twelve-factor-app/#/)
+
 ### Go 101 Workshop
 
 Workshop for Getting started with Go.
@@ -79,12 +84,12 @@ Presented at:
 
 - No video recording
 - Press release - [here](https://hackconf.bg/news/hackconf-2021-online-edition-workshops-announcement/#go-101)
+- Source and materials - [here](https://github.com/asankov/go-101-workshop)
 
 #### OSCAL Tirana 2022
 
 - No video recording
-
-- [Go Modules](https://asankov.org/go-modules) - simple explanation of what Go Modules are and what problem they solve.
+- Source and materials - [here](https://github.com/asankov/go-101-workshop)
 
 ### Building high-performance web services in Go
 
@@ -100,4 +105,4 @@ Presentation - [here](https://asankov.dev/go-modules/#/)
 
 ## My CV
 
-If you want to learn more about me check out my [CV](https://asankov.org/cv).
+If you want to learn more about me check out my [CV](https://asankov.org/cv) or download a shorter PDF version from [here](https://github.com/asankov/cv/raw/main/cv.pdf).

@@ -2,7 +2,7 @@
 
 My name is Anton Sankov!
 
-I am a passionate software developer, currently working at VMware Carbon Black.
+I am a passionate software developer, currently working at Cast AI.
 
 I am also a Core Team member of [Kiwi TCMS](https://github.com/kiwitcms) - the leading Open Source Test Case Management System.
 
